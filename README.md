@@ -9,7 +9,7 @@ I enjoy the process of learning new tools/tech and love building cool things!
 *   🌍  I'm based in Austin
 *   ✉️  You can contact me at [bryantryoung19@gmail.com](mailto:bryantryoung19@gmail.com)
 *   🚀  I'm currently working on [Logly](http://logly.world)
-*   🧠  I'm learning Next.js v13
+*   🧠  I'm learning [Supabase](https://supabase.com/)
 
 ### Skills 
 <p align="left">
